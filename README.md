@@ -1,5 +1,4 @@
 # Excel
-This is my project on gifthub
 
 Freshco Hypermarket into (MS – EXCEL)
 •	Advanced MS Excel: Solved real-time case studies using a wide range of functions and formulas.
