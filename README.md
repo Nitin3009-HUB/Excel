@@ -1,4 +1,4 @@
-# About my first projects
+# Excel
 This is my project on gifthub
 
 Freshco Hypermarket into (MS – EXCEL)
